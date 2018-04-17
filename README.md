@@ -11,7 +11,10 @@ Para completar esta prueba no puedes agregar dependencias al proyecto, debes usa
 
 Deberás consumir la API de github puedes encontrar documentación de la misma en la siguiente liga [developer.github.com/v3/repos](https://developer.github.com/v3/repos/), te dejamos un tip en el código y varias pistas para que te sea más fácil resolver este problema.
 
-Tip: Las peticiones al servidor pueden fallar muchas veces, sera bueno que tomes encuenta estos casos para ofrecer al usuario una mejor experiencia.
+Tips: 
+- Las peticiones al servidor pueden fallar muchas veces, sera bueno que tomes encuenta estos casos para ofrecer al usuario una mejor experiencia.
+- Es valido agragar o quitar todo el codigo que quieras, solo recuarda mantener la funcionalidad.
+- Realiza todas las prubas necesarias antes de dar por terminado tu proyecto.
 
 Dejo algunos enlaces que te pueden ayudar:
 
