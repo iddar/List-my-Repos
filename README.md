@@ -1,6 +1,7 @@
 # List my Repos
-
-![](https://raw.githubusercontent.com/iddar/List-my-Repos/screenshot.png)
+<p align="center">
+<img src="https://raw.githubusercontent.com/iddar/List-my-Repos/master/screenshot.png" width="400" style="margin:auto;">
+</p>
 
 Esta aplicación lista los repositorios un usuario de github, o almenos eso es lo que se pretende. Ya que se encuentra incompleta de momento solo lista los datos de duros de un usuario en especifico, para pasar esta prueba debes de ser capaz de escribir la lógica faltante para esto.
 
