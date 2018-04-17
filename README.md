@@ -3,6 +3,20 @@
 <img src="https://raw.githubusercontent.com/iddar/List-my-Repos/master/screenshot.png" width="400" style="margin:auto;">
 </p>
 
+### Dependecies
+
+- node 8.9 o superior
+- git
+- Navegador Web (Firefox, chrome, safari, etc.)
+
+### Setup
+```sh
+$ git clone https://github.com/iddar/List-my-Repos.git
+$ cd List-my-Repos
+$ npm install
+$ npm start
+```
+
 Esta aplicación lista los repositorios un usuario de github, o almenos eso es lo que se pretende. Ya que se encuentra incompleta de momento solo lista los datos de duros de un usuario en especifico, para pasar esta prueba debes de ser capaz de escribir la lógica faltante para esto.
 
 Se espera que el usuario pueda teclear su usuario y tras enviar el formulario, vea una lista de los repositorios ligados a su cuenta.
