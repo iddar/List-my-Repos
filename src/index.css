@@ -1,0 +1,85 @@
+
+h1, h2, h3 {
+  margin: 0;
+}
+
+.App {
+  width: 400px;
+  margin: 0 auto;
+  border-radius: 3px;
+  padding: 1rem;
+}
+
+.App img {
+  width: 200px;
+  margin: 0 auto;
+  display: block;
+}
+
+.App h2 {
+  text-align: center;
+}
+
+.App .side {
+  flex: 1;
+  margin: 1rem 0;
+}
+
+.form {
+  display: flex;
+  width: 100%;
+}
+
+.form input {
+  margin: 1rem 0;
+  padding: 0.5rem;
+  flex: 1;
+  border-radius: 3px;
+  border: 1px solid #e9ecef;
+  outline: none;
+}
+
+.form input[type=submit] {
+  margin: 1rem 0 1rem 0.5rem;
+  padding: 0.5rem;
+  border: 0;
+  width: 80px;
+  background: #74c0fc;
+  color: #343a40;
+  font-weight: bold;
+  flex: none;
+  border: 0;
+}
+
+.repo-element {
+  border-radius: 3px;
+  border: 1px solid #ced4da;
+  margin-bottom: 1rem;
+  padding: 0.5rem;
+}
+
+.repo-element:last-child {
+  margin-bottom: 0;
+}
+
+.repo-element:hover {
+  background: #f8f9fa;
+  cursor: pointer;
+}
+
+.repo-element .header {
+  display: flex;
+}
+
+.repo-element .header h3 {
+  flex: 1;
+}
+
+.repo-element .description {
+  display: flex;
+  margin-top: 0.5rem;
+}
+
+.repo-element .description > div {
+  flex: 1;
+}
